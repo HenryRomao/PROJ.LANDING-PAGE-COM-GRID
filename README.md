@@ -27,8 +27,7 @@ Os usuários devem ser capazes de:
 [<img src="./Src/Img-Design/Landing-Page-Interativa.gif" alt="imgem final da versão interativa desktop.">
 ]
 
-[
-<img src="./Src/Img-Design/Mobile-Landing-Page.gif" alt="imgem final da versão para interativa mobile.">
+[<img src="./Src/Img-Design/Mobile-Landing-Page.gif" alt="imgem final da versão interativa mobile.">
 ]
 
 ## Meus desafios no processo. 🤯
