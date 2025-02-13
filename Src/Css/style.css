@@ -264,15 +264,15 @@ body {
     color: #fff;
 }
 
-.social a i {
+.footer .social i {
     font-size: 2rem;
     transition: 0.3s;
 }
 
-.social a i {
+.footer .social a {
     margin: 20px;
 }
 
-.social a:hover {
+.footer .social a:hover {
     color: #fff;
 }
