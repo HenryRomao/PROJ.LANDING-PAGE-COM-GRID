@@ -264,12 +264,12 @@ body {
     color: #fff;
 }
 
-.footer .social i {
+.footer .social a i {
     font-size: 2rem;
     transition: 0.3s;
 }
 
-.footer .social a {
+.footer .social a i {
     margin: 20px;
 }
 
