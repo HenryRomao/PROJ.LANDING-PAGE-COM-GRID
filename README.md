@@ -48,7 +48,7 @@ git clone https://github.com/HenryRomao/PROJ.LANDING-PAGE-COM-GRID.git
 
 Acesse a pasta do projeto:
 ```
-cd PROJ. LANDING PAGE COM GRID
+cd PROJ.LANDING PAGE COM GRID
 ```
 
 Bom estudo. 🍀
