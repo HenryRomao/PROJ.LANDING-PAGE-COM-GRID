@@ -9,7 +9,7 @@ O desafio é criar esta landing page com cabeçalho, Painel, seção de sobre, s
 
 Os usuários devem ser capazes de:
 
-- Ver o layout ideal para do site dependendo do tamanho da tela do dispositivo.
+- Ver o layout ideal para o site dependendo do tamanho da tela do dispositivo.
 
 - Visualizar um site interativo, onde o menu interaja com as sessões da page.
 
