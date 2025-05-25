@@ -16,8 +16,6 @@ body {
     font-weight: 400;
 }
 
-/* HEADER */
-
 .header {
     grid-area: header;
     background-color: #fff;
@@ -40,8 +38,6 @@ body {
 .header a:hover h1 {
     color: coral;
 }
-
-/* Hero */
 
 .hero {
     grid-area: hero;
@@ -82,8 +78,6 @@ body {
         font-size: 2.5rem;
     }
 }
-
-/* ABOUT */
 
 .about {
     grid-area: about;
@@ -148,8 +142,6 @@ body {
     }
 }
 
-/* SERVICES */
-
 .services {
     grid-area: services;
     display: grid;
@@ -193,8 +185,6 @@ body {
     }
 }
 
-/* PROJECTS */
-
 .projects {
     grid-area: projects;
     display: grid;
@@ -223,8 +213,6 @@ body {
         grid-template-rows: repeat(4, 1fr);
     }
 }
-
-/* FOOTER */
 
 .footer {
     grid-area: footer;
